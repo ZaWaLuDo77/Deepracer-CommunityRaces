@@ -6,4 +6,6 @@
 # 初賽
 所選賽道: Competition track  
 競賽規則: 連續3圈/屆外懲罰3秒/計時賽  
-<img src = "https://github.com/ZaWaLuDo77/Deepracer-CommunityRaces/blob/main/picture/001.png" width = "775"/>
+  
+<img src = "https://github.com/ZaWaLuDo77/Deepracer-CommunityRaces/blob/main/picture/002.png" width = "775"/>
+  
