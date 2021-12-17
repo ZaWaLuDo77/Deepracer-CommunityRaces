@@ -6,7 +6,7 @@ def reward_function(params):
     MID_STEP = 4
     TURN_THRESHOLD = 10     # degrees
     DIST_THRESHOLD = 1.2    # metres
-    SPEED_THRESHOLD = 1.9   # m/s
+    SPEED_THRESHOLD = 1.8   # m/s (or 2.0)
 
 
     def judgment_angle(waypoints, closest_waypoints, future_step):
