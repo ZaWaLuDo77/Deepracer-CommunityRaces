@@ -33,7 +33,7 @@
 <img src = "https://github.com/ZaWaLuDo77/Deepracer-CommunityRaces/blob/main/picture/reward1-15-1.png" width = "375"/>  
 
 # 參考資料
-MatthewSuntup/DeepRacer: https://github.com/MatthewSuntup/DeepRacer#About
+MatthewSuntup/DeepRacer: https://github.com/MatthewSuntup/DeepRacer#About  
 An Advanced Guide to AWS DeepRacer: https://towardsdatascience.com/an-advanced-guide-to-aws-deepracer-2b462c37eea
 
   
