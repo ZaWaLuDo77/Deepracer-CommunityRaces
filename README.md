@@ -14,8 +14,6 @@
   
 學習初期，需要將學習率調大(0.001~0.0009)、選取較少量梯度下降的batch size (32-64) 促使前期訓練速度加快，達到有效率的訓練。
   
-動作選擇與參數調整如下圖:  
-  
 <img src = "https://github.com/ZaWaLuDo77/Deepracer-CommunityRaces/blob/main/picture/test1-3.png" width = "675"/>  
 <img src = "https://github.com/ZaWaLuDo77/Deepracer-CommunityRaces/blob/main/picture/reward1-3.png" width = "375"/>  
 
